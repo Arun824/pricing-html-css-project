@@ -121,19 +121,10 @@ h1 {
     font-size: 4em;
     margin: 15px 0;
 }
-
-.price-box .annually {
-    display: none;
+.price-box .dolar {
+    font-size: 2rem;
+   
 }
-
-.show-annually .price-box .annually {
-    display: none;
-}
-
-.show-annually .price-box .monthly {
-    display: block;
-}
-
 
 .price-box ul {
     border-top: 1px solid hsl(234, 14%, 74%);;
@@ -175,3 +166,4 @@ color: #fff;
 .price-box.price-box-premium p {
     color: #fff;
 }
+
